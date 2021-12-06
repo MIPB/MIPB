@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MIPB
-- 👀 I’m interested in developing apps in any language and framework possible
+- 👀 I’m interested in developing cross-platform mobile apps.
 - 🌱 I’m currently improving my React Native skills and JS skills by developing new apps.
 - 💞️ I’m looking to collaborate on any project that I think has potential.
 - 📫 How to reach me -> miquelplanab@gmail.com
