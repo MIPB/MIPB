@@ -11,7 +11,7 @@ My projects:
 - FitMe - Fitness cooking recipes app (50k+ downloads): https://play.google.com/store/apps/details?id=fitnesscookingrecipies.com.mipb.fitnessrecipies&hl=es_419&gl=US
 - Zero Waste Goals (3k+ downloads): https://play.google.com/store/apps/details?id=mipb.com.zerowasteideas&hl=es_419&gl=US
 
-Reache me on linkedin: https://www.linkedin.com/in/miquel-p-29100a123/
+Reach me on linkedin: https://www.linkedin.com/in/miquel-p-29100a123/
 <!---
 MIPB/MIPB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
