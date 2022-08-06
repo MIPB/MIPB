@@ -12,6 +12,7 @@ My projects:
 - Zero Waste Goals (3k+ downloads): https://play.google.com/store/apps/details?id=mipb.com.zerowasteideas&hl=es_419&gl=US
 
 Reach me on linkedin: https://www.linkedin.com/in/miquel-p-29100a123/
+
 And check out my stack overflow profile: https://stackoverflow.com/users/10246751/mipb
 <!---
 MIPB/MIPB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
